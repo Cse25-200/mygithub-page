@@ -1,6 +1,6 @@
 body{
   font-family:Arial,sans-serif;
-  color:#333;
+  color:black
   background-color:#f9f9f9;
   margin:0;
   padding:0;
@@ -19,7 +19,7 @@ header h1{
 }
 
 nav a{
-    color:white;
+    color:#4CAF50;
 	text-decoration:none;
 	margin:0 10px
 }
